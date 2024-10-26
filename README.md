@@ -51,6 +51,7 @@ The project uses publicly available data on movies, including details such as:
 - **Box Office Mojo** for revenue
 - **IMDb or Rotten Tomatoes** for ratings
 - **The Movie Database (TMDb)** for cast, crew, and metadata
+- "https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies"
 
 Ensure compliance with the data providers’ usage policies.
 
