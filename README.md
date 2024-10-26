@@ -1,11 +1,9 @@
 # Movie-Metrics
-Here's a sample README for a movie prediction project that uses Python and machine learning models.
-
 ---
 
 # 🎬 Movie Metrics: Movie Prediction with Python & Machine Learning
 
-**Movie Metrics** is a machine learning project designed to predict the success of movies using Python, based on various factors like genre, cast, director, budget, and release date. This project leverages Python libraries and machine learning algorithms to analyze historical data and provide insights into movie performance, such as box office success or ratings.
+**Movie Metrics** is a machine learning project designed to predict movie success using Python based on various factors like genre, cast, director, budget, and release date. This project leverages Python libraries and machine learning algorithms to analyze historical data and provide insights into movie performance, such as box office success or ratings.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -51,7 +49,7 @@ The project uses publicly available data on movies, including details such as:
 - **Box Office Mojo** for revenue
 - **IMDb or Rotten Tomatoes** for ratings
 - **The Movie Database (TMDb)** for cast, crew, and metadata
-- "https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies"
+- https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies
 
 Ensure compliance with the data providers’ usage policies.
 
@@ -93,9 +91,6 @@ PremierePredictor/
 ├── README.md               # Project overview (this file)
 └── LICENSE                 # License information
 ```
-
-## Contributing
-Contributions are welcome! If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly appreciated.
 
 1. Fork the repository.
 2. Create a feature branch (`git checkout -b feature/AmazingFeature`).
